@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/holi/static/css/main.38b308c0.css",
-    "main.js": "/holi/static/js/main.7d189956.js",
+    "main.js": "/holi/static/js/main.57d1f924.js",
     "static/js/453.ed3810f9.chunk.js": "/holi/static/js/453.ed3810f9.chunk.js",
     "static/media/song.mp3": "/holi/static/media/song.a6a3e42b1d08f32748f1.mp3",
     "index.html": "/holi/index.html",
     "main.38b308c0.css.map": "/holi/static/css/main.38b308c0.css.map",
-    "main.7d189956.js.map": "/holi/static/js/main.7d189956.js.map",
+    "main.57d1f924.js.map": "/holi/static/js/main.57d1f924.js.map",
     "453.ed3810f9.chunk.js.map": "/holi/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38b308c0.css",
-    "static/js/main.7d189956.js"
+    "static/js/main.57d1f924.js"
   ]
 }
