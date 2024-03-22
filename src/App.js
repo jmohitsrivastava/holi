@@ -24,11 +24,11 @@ function App() {
    <p id="input_name">enter your name</p>
    <input  type="text" id="fname" name="fname"/><button id='btn' onClick={Enter}>ok</button>
 
-      
+    <div className='total'>
       <div>
        <h3 id="user_name"></h3> 
        <h1 id="holi"></h1>
-       <h2>Created by-@j_mohitsrivastava(insta-id)</h2>
+       <h2>this web page is Created by-@j_mohitsrivastava(insta-id)</h2>
       </div>
 
       <ul>
@@ -39,9 +39,9 @@ function App() {
         <li></li>
         <li></li>
       </ul>
-
+      </div>
       
-    </div>  
+  </div>  
     </>
   );
 
