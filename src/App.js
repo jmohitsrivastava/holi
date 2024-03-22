@@ -24,7 +24,7 @@ function App() {
    <p id="input_name">enter your name</p>
    <input  type="text" id="fname" name="fname"/><button id='btn' onClick={Enter}>ok</button>
 
-    <div className='total'>
+    <div >
       <div>
        <h3 id="user_name"></h3> 
        <h1 id="holi"></h1>
